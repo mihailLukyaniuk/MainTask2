@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<aircompany>
+    <planes>
+        <plane type="DestroyerPlane">
+            <name>Su-27</name>
+            <numberOfPassengers>2</numberOfPassengers>
+            <rangeOfFlight>3530</rangeOfFlight>
+            <fuelConsumption>150</fuelConsumption>
+            <purpose>destroyer</purpose>
+            <numberOfMissiles>150</numberOfMissiles>
+        </plane>
+		<plane type="DestroyerPlane">
+            <name>Su-30M</name>
+            <numberOfPassengers>2</numberOfPassengers>
+            <rangeOfFlight>3600</rangeOfFlight>
+            <fuelConsumption>220</fuelConsumption>
+            <purpose>destroyer</purpose>
+            <numberOfMissiles>8</numberOfMissiles>
+        </plane>
+		<plane type="DestroyerPlane">
+            <name>Su-35</name>
+            <numberOfPassengers>1</numberOfPassengers>
+            <rangeOfFlight>3400</rangeOfFlight>
+            <fuelConsumption>170</fuelConsumption>
+            <purpose>destroyer</purpose>
+            <numberOfMissiles>1</numberOfMissiles>
+        </plane>
+		<plane type="StormtrooperPlane">
+            <name>Su-25</name>
+            <numberOfPassengers>12</numberOfPassengers>
+            <rangeOfFlight>2500</rangeOfFlight>
+            <fuelConsumption>450</fuelConsumption>
+            <purpose>stormtrooper</purpose>
+            <numberOfMissiles>45</numberOfMissiles>
+        </plane>
+		<plane type="StormtrooperPlane">
+            <name>IL-2</name>
+            <numberOfPassengers>2</numberOfPassengers>
+            <rangeOfFlight>2200</rangeOfFlight>
+            <fuelConsumption>320</fuelConsumption>
+            <purpose>stormtrooper</purpose>
+            <numberOfMissiles>5</numberOfMissiles>
+        </plane>
+        <plane type="PassengerPlane">
+            <name>Boeing737800</name>
+            <numberOfPassengers>170</numberOfPassengers>
+            <rangeOfFlight>4400</rangeOfFlight>
+            <fuelConsumption>510</fuelConsumption>
+            <economyClass>148</economyClass>
+            <businessClass>22</businessClass>
+        </plane>
+        <plane type="PassengerPlane">
+            <name>CRJ200</name>
+            <numberOfPassengers>70</numberOfPassengers>
+            <rangeOfFlight>3148</rangeOfFlight>
+            <fuelConsumption>400</fuelConsumption>
+            <economyClass>50</economyClass>
+            <businessClass>20</businessClass>
+        </plane>
+        <plane type="PassengerPlane">
+            <name>EmbraerE195</name>
+            <numberOfPassengers>107</numberOfPassengers>
+            <rangeOfFlight>3900</rangeOfFlight>
+            <fuelConsumption>510</fuelConsumption>
+            <economyClass>96</economyClass>
+            <businessClass>11</businessClass>
+        </plane>
+        <plane type="TransportPlane">
+            <name>F-15</name>
+            <numberOfPassengers>10</numberOfPassengers>
+            <rangeOfFlight>1000</rangeOfFlight>
+            <fuelConsumption>440</fuelConsumption>
+            <luggageCapacity>2000</luggageCapacity>
+            <loader>true</loader>
+        </plane>
+        <plane type="TransportPlane">
+            <name>An26</name>
+            <numberOfPassengers>38</numberOfPassengers>
+            <rangeOfFlight>2660</rangeOfFlight>
+            <fuelConsumption>510</fuelConsumption>
+            <luggageCapacity>1000</luggageCapacity>
+            <loader>true</loader>
+        </plane>
+		
+    </planes>
+</aircompany>
